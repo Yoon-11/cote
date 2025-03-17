@@ -3,6 +3,7 @@
 # 지금 이 문제는 조건을 만족하는 값의 인덱스를 반환해야하기때문에 정렬을 사용하면 인덱스가 바뀌어서 인덱스를 사용해선 안된다.
 
 
+# Bad Case
 class Solution:
     def twoSum(self, nums, target):
         result = []
