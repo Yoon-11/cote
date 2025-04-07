@@ -1,6 +1,5 @@
 # 수열
 
-
 # 시간초과
 
 N, K = map(int, input().split())
