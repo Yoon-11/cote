@@ -23,7 +23,6 @@
 #     else:
 #         print(i)
 
-
 # 에라토스테네스의 체
 from math import sqrt
 
