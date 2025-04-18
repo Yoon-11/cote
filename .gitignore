@@ -1,10 +1,2 @@
-
-### macOS ###
-# General
-.DS_Store
-.AppleDouble
-.LSOverride
-
-
 .venv
 .idea
